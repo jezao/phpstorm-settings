@@ -1,13 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="highContrast" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="009688" />
+    <option name="selectedTheme" value="LIGHT_CUSTOM" />
     <option name="userId" value="-11767426:17646dba70b:-8000" />
     <option name="version" value="4.11.5" />
   </component>
